@@ -12,10 +12,10 @@ Contents:
 - [**205IQ**]() (coming soon)
 - [**209Poll**]() (coming soon)
 
-<br>
 These programs are about solving maths problems using algorithms we had to implement.<br>
-Discover how the programs work by typing './*program* --help'.<br>
+Discover how the programs work by typing './<i>program</i> --help'.<br>
 <br>
-*Have fun!*
 <br>
-**Disclaimer:** I am strongly against cheating and copying others' work. If you are yourself a student of Epitech or looking forward to cheat using my work, just **don't**. More than lying to the system, you're lying to yourself. Do the projects, they really aren't that hard. I won't take responsibility for any *-42* grade of yours.
+<i>Have fun!</i>
+<br>
+<b>Disclaimer:</b> I am strongly against cheating and copying others' work. If you are yourself a student of Epitech or looking forward to cheat using my work, just <b>don't</b>. More than lying to the system, you're lying to yourself. Do the projects, they really aren't that hard. I won't take responsibility for any <i>-42*</i> grade of yours.

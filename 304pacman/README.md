@@ -6,7 +6,7 @@
 <br>
 Welcome to 304pacman!<br>
 <br>
-This program computes the shortest path from a ghost to Pacman, using Dijkstra's algorithm.<br>
+This program computes the shortest path from a ghost to Pacman on a given map, using Dijkstra's algorithm.<br>
 This project features unit tests run through the command 'make run_tests' and a graphical bonus using PyGame through adding the '--bonus' parameter to a normal launch.<br>
 Discover how the program works by typing './304pacman --help'.<br>
 <br>
